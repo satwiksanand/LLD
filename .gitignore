@@ -3,6 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
+.idea/material_theme_project_new.xml
+.idea/dictionaries/
+
 ### Eclipse ###
 .apt_generated
 .classpath
