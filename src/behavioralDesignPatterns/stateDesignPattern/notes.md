@@ -1,0 +1,3 @@
+State Design Patterns belongs to the category of Behavioral design pattern. It is used to allow an object to modify its behavior based on the changes in its internal state. It makes the object behave similarly to finite state machines. It makes the object flexible to alter its state without handling a lot of if / else conditions. State pattern ensures loose coupling between the performance of existing states versus the addition of new states.
+
+Note: A Finite State Machine is a model of computation which is based on a hypothetical machine made of one or more states. Only one single state of this machine can be active at a particular time. It means the machine has to do the transition from one state to another in order to reflect different behaviors.
