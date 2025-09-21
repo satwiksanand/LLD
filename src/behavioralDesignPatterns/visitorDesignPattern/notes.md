@@ -1,0 +1,1 @@
+A visitor design pattern is a behavioral design pattern used to decouple the logic/algorithm from the objects on which they operate. The logic is moved to separate classes called visitors. Each visitor is responsible for performing a specific operation.
